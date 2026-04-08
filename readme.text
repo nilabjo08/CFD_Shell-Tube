@@ -10,7 +10,7 @@ int main() {
     printf("Pointer ptr: %p\n", ptr);
     printf("Value at ptr: %d\n", *ptr);
     
-    // Pointer arithmetic
+    // Pointer arithmetic logic
     int arr[] = {1, 2, 3, 4, 5};
     int *arr_ptr = arr;
     
